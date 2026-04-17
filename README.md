@@ -50,12 +50,10 @@ Sistem üzerinden haber ve duyurular yönetilebilir, admin paneli ile içerikler
 
 ## Varsayılan Admin (Seed Data)
 
-Uygulama ilk çalıştığında otomatik olarak aşağıdaki admin oluşturulur:
+Uygulama ilk çalıştığında, eğer veritabanında herhangi bir admin kullanıcı bulunmuyorsa otomatik olarak aşağıdaki kullanıcı oluşturulur:
 
 - Kullanıcı adı: admin
 - Şifre: 1234
-
----
 
 ## Kurulum
 
